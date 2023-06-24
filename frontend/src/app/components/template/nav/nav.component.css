@@ -1,0 +1,17 @@
+.sidenav {
+    background-color: rgb(179, 12, 45);
+    width: 150px;
+}
+
+.sidenav i {
+    padding-right: 0.5rem;
+}
+
+.nav-list a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    padding: 16px;
+    background-color: darkgrey;
+}
