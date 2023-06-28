@@ -35,6 +35,6 @@
    <img src="frontend/src/assets/image-readme/edicao.png"/> 
    <h3>* Exclusão dos produtos</h3>
    <img src="frontend/src/assets/image-readme/excluir.png"/> 
-   <h3>* Inserção de novos produtos</h3>.
+   <h3>* Inserção de novos produtos</h3>
    <img src="frontend/src/assets/image-readme/novo-produto.png"/> 
 </div> 
