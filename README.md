@@ -30,7 +30,7 @@
    <p>
       Neste curso foi desenvolvido uma página para listagem dos produtos.
    </p>
-   <img src="frontend/src/"/> 
+   <img src="frontend/src/assets/image-readme/cadastro.png"/> 
    <p>
       Uma página para edição dos produtos.
    </p>
