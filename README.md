@@ -27,19 +27,19 @@
    <br> 
    <br>
    <p>
-      Neste curso foi desenvolvido uma página para <strong>listagem dos produtos</strong>.
+      Neste curso foi desenvolvido uma página para <h3>listagem dos produtos</h3>.
    </p>
    <img src="frontend/src/assets/image-readme/cadastro.png"/> 
    <p>
-      Uma página para <strong>edição dos produtos</strong>.
+      Uma página para <h3>edição dos produtos</h3>.
    </p>
    <img src="frontend/src/assets/image-readme/edicao.png"/> 
    <p>
-      <strong>Exclusão dos produtos</strong>.
+      <h3>Exclusão dos produtos</h3>.
    </p>
    <img src="frontend/src/assets/image-readme/excluir.png"/> 
    <p>
-     <strong>Inserção de novos produtos</strong>.
+     <h3>Inserção de novos produtos</h3>.
    </p>
    <img src="frontend/src/assets/image-readme/novo-produto.png"/> 
 </div> 
